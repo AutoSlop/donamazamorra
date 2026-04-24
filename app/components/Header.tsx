@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 
-const WHATSAPP_URL = "https://wa.me/0000000000?text=Hola%2C%20quiero%20pedir%20mazamorra";
+const WHATSAPP_URL = "https://wa.me/34664015391?text=Hola%2C%20quiero%20pedir%20mazamorra";
 
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);

@@ -1,4 +1,4 @@
-const WHATSAPP_URL = "https://wa.me/0000000000?text=Hola%2C%20quiero%20la%20promo%20de%20lanzamiento";
+const WHATSAPP_URL = "https://wa.me/34664015391?text=Hola%2C%20quiero%20la%20promo%20de%20lanzamiento";
 
 export default function Promo() {
   return (
